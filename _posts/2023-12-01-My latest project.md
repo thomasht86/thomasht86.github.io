@@ -111,12 +111,6 @@ And a numbered list:
 
 > This is a quotation
 
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
-
 
 ## Code
 

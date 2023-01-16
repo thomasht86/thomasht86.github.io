@@ -1,15 +1,14 @@
 ---
-title: "Creating an app to solve "Mattemix"-game"
-date: 2023-01-18T15:34:30-04:00
+title: "Building an app to solve `Mattemix` with genetic algorithm 🧬"
+date: 2023-01-15T15:34:30-04:00
 categories:
   - blog
 tags:
-  - AI
-  - coding
+  - Jekyll
+  - update
 ---
 
-
-## Why
+Why
 
 I've always had a bunch of ideas for side projects. Most of them have been abandoned after
 the initial enthusiasm. This time I wanted to try something different. I wanted to build an 
@@ -135,5 +134,3 @@ print(1+1)
 | A thing | Another thing |
 
 ## Footnotes
-
-[^1]: This is the footnote.

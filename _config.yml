@@ -59,33 +59,23 @@ plugins:
 
 author:
   name   : "Thomas Thoresen"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/thomas.jpg"
+  bio    : "A guy that enjoys coding and life in general"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thomasht86"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thomasht86"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts

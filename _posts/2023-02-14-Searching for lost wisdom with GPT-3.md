@@ -116,7 +116,7 @@ def starts_with_romannumeral(text):
         return ""
 ```
 
-Seems like I am in good company[karpathy](../assets/images/karpathy_twitter.png)
+Seems like I am in good company[karpathy](/assets/images/karpathy_twitter.png)
 
 ### Splitting
 
@@ -157,7 +157,7 @@ def translate_chunk(chunk, engine='text-davinci-003',
         max_tokens= min([len(prompt)*2.2, 4096-len(prompt)]), # max 4096 tokens in total
     )
     result = response['choices'][0]['text'].strip()
-    result = result.replace('"""', '') # remove the double quotes, as we used them to surround the text
+    result = result.replace('"""', '') # remove the double quotes
     return result
 ```
 
@@ -242,9 +242,9 @@ Some critics have pointed out that Hays have taken a bit too much liberty with t
 
 Here is the final translation:
 
-[Cover](../assets/images/Cover.jpg)
+[Cover](/assets/images/Cover.jpg)
 
-[Pdf](../assets/pdfs/Meditations%20-%20Marcus%20Aurelius%20(Translation%20from%20ancient%20greek%20with%20AI).pdf)
+[Pdf](/assets/pdfs/Meditations%20-%20Marcus%20Aurelius%20(Translation%20from%20ancient%20greek%20with%20AI).pdf)
 
 
 ## Final thoughts 
@@ -252,7 +252,6 @@ Here is the final translation:
 I think the results are quite good, especially considering this was a side project done in a few hours.
 I actually considered putting even more effort into this translation, and sell it on Amazon.
 But I decided against it. For me, the main purpose of this project was to dive deeper into LLM's for my work as a Data Scientist.
-I also used Perseus Beta Code, which st
 
 Therefore, I decided to keep the produced texts completely unchanged, even though I saw some obvious room for improvement.
 If I had intended to make money off the translation, a bit more manual intervention would have been necessary.

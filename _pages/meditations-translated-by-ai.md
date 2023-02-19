@@ -4,14 +4,14 @@ excerpt: "Meditations by Marcus Aurelius, translated by AI."
 permalink: /meditations-translated-by-ai/
 ---
 
-[Cover](../assets/images/Cover.jpg)
+[Cover](/assets/images/Cover.jpg)
 
 Disclaimer: This book is translated by AI.
 There might be factual errors, and the translation might be incorrect.
 However, some of the translations may also present new insights into the text.
 Judge for yourself.
 
-Pdf: [meditations-translated-by-ai.pdf](../assets/pdfs/Meditations%20-%20Marcus%20Aurelius%20(Translation%20from%20ancient%20greek%20with%20AI).pdf)
+Pdf: [meditations-translated-by-ai.pdf](/assets/pdfs/Meditations%20-%20Marcus%20Aurelius%20(Translation%20from%20ancient%20greek%20with%20AI).pdf)
 
 Read the corresponding [blog post](/blog/searching-for-lost-wisdom-with-gpt-3/).
 

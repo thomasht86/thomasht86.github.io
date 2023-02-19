@@ -14,6 +14,8 @@ tags:
   - wisdom
 ---
 
+TL;DR: I used GPT-3 to translate ancient texts, and found some interesting results. 
+Skip to the [end](#results) for a link to the final result.
 ## Introduction
 
 Back in 2017, I had an almost religious experience. I was walking to work with my noise-cancelling headphones on under the hood of my jacket. It was late in the winter, but early in the morning. The wet snow whipped my face, eventually making my cheeks and forehead numb from the cold. But the cold didn't affect me. I had started to build "an Inner Citadel", being grateful for the cold, and for the snow, and for everything that is. I realized that we have the power to choose how we feel about things, and that we can choose to be grateful for everything that is - Turning obstacles upside down, and regard every difficulty as an opportunity to grow. To cultivate character. To become a better person.

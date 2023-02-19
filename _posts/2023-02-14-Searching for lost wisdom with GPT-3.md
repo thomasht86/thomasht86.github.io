@@ -38,9 +38,9 @@ Several other manuscripts are olse known, but contain only fragments of the orig
 Some of the other earliest translations are listed [here](https://en.wikisource.org/wiki/Meditations).
 
 Some of the more recent, and more popular translations are listed below:
-- [Meditations: A New Translation by Gregory Hays](https://www.amazon.com/Meditations-Gregory-Hays/dp/014044926X)
-- [Meditations: with selected correspondence - Translation by Robin Hard](https://www.amazon.com/Meditations-selected-correspondence-translation-Hard/dp/014044926X)
-- [The Emperor's Handbook: A New Translation of the Meditations of Marcus Aurelius](https://www.amazon.com/Emperors-Handbook-Translation-Meditations-Aurelius/dp/014044926X)
+- [Meditations: A New Translation by Gregory Hays](https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255)
+- [Meditations: with selected correspondence - Translation by Robin Hard](https://www.amazon.com/Meditations-selected-correspondence-Oxford-Classics-ebook/dp/B006QV7YN8/ref=sr_1_10?keywords=meditations+marcus+aurelius+robin+hard&qid=1676786309&s=books&sprefix=robin+hard%2Cstripbooks-intl-ship%2C164&sr=1-10)
+- [The Emperor's Handbook: A New Translation of the Meditations of Marcus Aurelius](https://www.amazon.com/Emperors-Handbook-New-Translation-Meditations/dp/0743233832/ref=sr_1_7?keywords=meditations+marcus+aurelius+robin+hard&qid=1676786309&s=books&sprefix=robin+hard%2Cstripbooks-intl-ship%2C164&sr=1-7)
 
 These translations are all great, but they are all different. They all have their own style, and some of them differ quite a bit in their interpretation of the original text.
 Some translators have added their own commentary, and some have even added their own thoughts and ideas. We all have our own biases, and it is easy to see how these biases can creep into the translation process. It is also likely to assume that the later versions may have amplified biases from earlier translations.
@@ -116,7 +116,9 @@ def starts_with_romannumeral(text):
         return ""
 ```
 
-Seems like I am in good company[karpathy](/assets/images/karpathy_twitter.png)
+Seems like I am in good company
+
+![karpathy](/assets/images/karpathy_twitter.png)
 
 ### Splitting
 
@@ -242,7 +244,7 @@ Some critics have pointed out that Hays have taken a bit too much liberty with t
 
 Here is the final translation:
 
-[Cover](/assets/images/Cover.jpg)
+![Cover](/assets/images/Cover.jpg)
 
 [Pdf](/assets/pdfs/Meditations%20-%20Marcus%20Aurelius%20(Translation%20from%20ancient%20greek%20with%20AI).pdf)
 

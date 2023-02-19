@@ -16,6 +16,9 @@ tags:
 
 TL;DR: I used GPT-3 to translate ancient texts, and found some interesting results. 
 Skip to the [end](#final-thoughts) for a link to the final result.
+
+![Cover](/assets/images/Cover.jpg)
+
 ## Introduction
 
 Back in 2017, I had an almost religious experience. I was walking to work with my noise-cancelling headphones on under the hood of my jacket. It was late in the winter, but early in the morning. The wet snow whipped my face, eventually making my cheeks and forehead numb from the cold. But the cold didn't affect me. I had started to build "an Inner Citadel", being grateful for the cold, and for the snow, and for everything that is. I realized that we have the power to choose how we feel about things, and that we can choose to be grateful for everything that is - Turning obstacles upside down, and regard every difficulty as an opportunity to grow. To cultivate character. To become a better person.
@@ -245,8 +248,6 @@ Some critics have pointed out that Hays have taken a bit too much liberty with t
 > If you find something better in human life than justice, truth, self-control, courage and moderation, use your reason to hold on to it and in the face of all distractions, keep it in mind. If nothing better appears, then accept the divinely appointed order of things and be content with it, examining your own dispositions and controlling your impulses, as Socrates said, humbly and reverently submitting to the gods and to your fellow human beings. If you do this, you will have no need of anything else, and you will be able to keep your attention on the good, your own and that of others, without distraction.<br><br>For it is not necessary to seek out many different things, such as fame among the many, or power, or wealth, or sensual pleasures; all these things, if they come in small amounts, are enough to make life pleasant. So simply and easily accept the better and cling to it. If it is according to reason, keep it; if according to custom, let it go, but with a good conscience. Only make sure that your choice is safe.<br><br>Never be ashamed of doing what is necessary, such as submitting to authority, enduring hardship, making sacrifices, being humble, apologizing, or asking for help. For it is your own mind and spirit, and the actions of this self-control, that you should be proud of.<br><br>We should not do anything extravagant, nor be anxious, nor angry; nor should we try to acquire more than is necessary: the greatest thing is to live in harmony, neither fawning nor avoiding people, and to use the present time with moderation, either in the body or in the soul, without being attached to anything. For it is already time to let go and to pass away, as if it were something natural and common in the world, and to use life only to make the mind better, and to be nourished by a wise and political animal.
 
 Here is the final translation:
-
-![Cover](/assets/images/Cover.jpg)
 
 [Pdf](/assets/pdfs/Meditations%20-%20Marcus%20Aurelius%20(Translation%20from%20ancient%20greek%20with%20AI).pdf)
 

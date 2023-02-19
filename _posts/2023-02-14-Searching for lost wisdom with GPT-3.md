@@ -76,8 +76,8 @@ Even if the model knows about the Chaldeans, it does not know what Marcus was re
 
 ### Beta code
 
-[Beta Code-Wikipedia](https://en.wikipedia.org/wiki/Beta_Code)
-
+The original text was written in Ancient Greek, and I discovered that using the [Beta Code](https://en.wikipedia.org/wiki/Beta_Code) system provided far better results than using the Greek alphabet. 
+The Beta Code system is a system for writing Greek words using the Latin alphabet, which also captures the pronunciation of the Greek words, allowing for disambiguation of words with similar spelling.
 ### Keeping the sections
 
 I needed to do some simple processing to keep the sections of the text intact as the chunks were of very different lengths.

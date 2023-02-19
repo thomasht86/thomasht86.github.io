@@ -1,6 +1,7 @@
 ---
 title: "Building an app to solve `Mattemix` with genetic algorithm 🧬"
 date: 2023-01-15T15:34:30-04:00
+excerpt: "Solving a math board game puzzle with genetic algorithm. Deploying the app with Modal and stlite."
 categories:
   - blog
 tags:

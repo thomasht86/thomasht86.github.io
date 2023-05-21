@@ -1,6 +1,6 @@
 ---
 title: "GPT News Analyzer 📰🤖"
-date: 2023-01-15T15:34:30-04:00
+date: 2023-05-21T06:34:30-04:00
 excerpt: "Analyzing news for portfolio companies"
 categories:
   - blog

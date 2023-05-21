@@ -1,3 +1,14 @@
+---
+title: "Ask your database 💾❓"
+date: 2023-03-28T15:34:30-04:00
+excerpt: "Ask questions for insights into your database"
+categories:
+  - blog
+  - demo
+tags:
+  - AI
+  - coding
+---
 # Ask your database
 
 Check out the live demo [here](https://databutton.com/v/3po3yed0)

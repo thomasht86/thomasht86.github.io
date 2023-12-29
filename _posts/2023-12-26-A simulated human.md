@@ -11,13 +11,13 @@ tags:
   - philosophy
 ---
 
+**This is just an outline for a future post**
+
 I have briefly heard about Simulation Theory before. 
 But I never bothered to think more closely about the arguments, and perceived it as science fiction. 
 Lately, I've revisited the Simulation Theory, which brought about an intriguing sequence of thoughts. 
 Thoughts for me are best expressed when I force myself to express them in writing. 
 Hence, this blog post. 
-
-![Cover](/assets/images/Cover.jpg)
 
 ## Simulation Theory
 

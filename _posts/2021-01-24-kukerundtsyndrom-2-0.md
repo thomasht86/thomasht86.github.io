@@ -1,4 +1,3 @@
-
 ---
 title: "Kukerundtsyndrom 2.0"
 excerpt: "Kukerundtsyndrom 2.0 handler om mangel på fremgang ikke bare på gymmet, men i livet som helhet."

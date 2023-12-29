@@ -1,4 +1,3 @@
-
 ---
 title: "Hva er egentlig lykke?"
 excerpt: "Utforskningen av lykke og hvordan vi kan oppnå en dypere forståelse og tilfredsstillelse i livet."

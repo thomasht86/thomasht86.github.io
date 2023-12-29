@@ -1,4 +1,3 @@
-
 ---
 title: "Har du en rå gjeng rundt deg?"
 excerpt: "Hvem du tilbringer tid sammen med har ekstremt stor påvirkning på hvem du er og hvordan livet ditt er. I denne artikkelen utforsker vi konseptet av en 'rå gjeng' og hvordan det kan påvirke deg og dine resultater."

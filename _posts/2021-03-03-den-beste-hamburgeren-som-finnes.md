@@ -1,4 +1,3 @@
-
 ---
 title: "Den beste hamburgeren som finnes"
 excerpt: "Dette er ikke en artikkel om hamburgere i seg selv, men en artikkel om hamburgere som metafor for målene vi higer etter og valgene vi tar i livet."

@@ -1,4 +1,3 @@
-
 ---
 title: "Hva er historien du forteller deg selv?"
 excerpt: "Har du noen gang sagt noen av de følgende setningene? Da er sjansen stor for at du forteller deg selv en historie om hvem du er som holder deg tilbake fra å skape den råeste versjonen av deg selv."

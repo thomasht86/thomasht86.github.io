@@ -1,4 +1,3 @@
-
 ---
 title: "Skap din drømmejobb - Del 2: Generer idéer"
 excerpt: "I denne delen vil du få bruk for innsikten om deg selv med formål om å generere en haug med idéer om mulige ting du kan jobbe med."

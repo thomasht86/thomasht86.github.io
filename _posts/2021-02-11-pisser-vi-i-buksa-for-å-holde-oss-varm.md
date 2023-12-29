@@ -1,4 +1,3 @@
-
 ---
 title: "Pisser vi i buksa for å holde oss varm?"
 excerpt: "Vi står ovenfor en global pandemi og dens konsekvenser. Er de tiltakene vi tar for å møte denne utfordringen mer skadelige enn selve pandemien?"

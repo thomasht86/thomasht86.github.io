@@ -1,4 +1,3 @@
-
 ---
 title: "Skap din drømmejobb - Del 1: Bli kjent med deg selv"
 excerpt: "Utforsk hvordan du kan bruke tid på å tenke gjennom hva du ønsker å gjøre med dine 80 000 arbeidstimer, og hvordan du kan skape din drømmejobb."

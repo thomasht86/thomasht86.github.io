@@ -1,4 +1,3 @@
-
 ---
 title: "Er du en slave av telefonen din?"
 excerpt: "Smarttelefonen er en fantastisk oppfinnelse, men med enorme krefter kommer et enormt ansvar. Lær hvordan du kan ta kontroll over kraften og ikke være en slave av din egen telefon."

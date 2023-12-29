@@ -1,4 +1,3 @@
-
 ---
 title: "Mulighetenes tid"
 excerpt: "Midt på 90-tallet fikk vi en brosjyre i posten fra en slags filmklubb med en oversikt over de nyeste filmutgivelsene på VHS. Vi fikk muligheten til å bestille 4 av disse filmene for en pakkepris."

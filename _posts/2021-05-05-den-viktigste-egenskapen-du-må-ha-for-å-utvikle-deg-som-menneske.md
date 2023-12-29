@@ -1,4 +1,3 @@
-
 ---
 title: "Den viktigste egenskapen du må ha for å utvikle deg som menneske"
 excerpt: "Tror du du kjenner deg selv godt? Det trodde jeg også for noen år siden. Senere har jeg forstått at det var utrolig mange sider ved meg selv og mine følelser jeg ikke hadde tatt meg 'bryet' med å bli ordentlig kjent med, og oppdager stadig noe nytt om meg selv."

@@ -1,4 +1,3 @@
-
 ---
 title: "Maslow 2.0 - En oppdatert modell for selvrealisering"
 excerpt: "Begrepet selvrealisering ble popularisert av Abraham Maslow, og kan beskrives som menneskets behov for å oppnå sitt høyeste potensiale."

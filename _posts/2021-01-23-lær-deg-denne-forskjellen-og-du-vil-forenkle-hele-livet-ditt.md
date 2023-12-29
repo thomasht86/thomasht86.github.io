@@ -1,4 +1,3 @@
-
 ---
 title: "Lær deg denne forskjellen, og du vil forenkle hele livet ditt"
 excerpt: "En introduksjon til kontrollsirkelen og hvordan du kan trene opp kontroll over egen respons."

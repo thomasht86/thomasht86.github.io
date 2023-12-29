@@ -1,4 +1,3 @@
-
 ---
 title: "Fra Afghanistan til City Syd"
 excerpt: "En personlig skildring av en hverdagslig situasjon, ispedd humor og refleksjoner."

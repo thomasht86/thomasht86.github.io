@@ -1,4 +1,3 @@
-
 ---
 title: "Den sjokkerende effekten av små valg"
 excerpt: "Hvordan små, tilsynelatende ubetydelige valg kan ha en enorm effekt på livskvaliteten vår over tid."

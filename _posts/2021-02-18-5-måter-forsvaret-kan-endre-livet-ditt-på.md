@@ -1,4 +1,3 @@
-
 ---
 title: "5 måter Forsvaret kan endre livet ditt på"
 excerpt: "Forsvaret har unike forutsetninger for å skape ordentlig endring hos mennesker. Her er fem måter en periode i Forsvaret kan påvirke livet ditt."

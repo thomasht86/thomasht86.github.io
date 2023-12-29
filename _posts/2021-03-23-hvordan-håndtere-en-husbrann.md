@@ -1,4 +1,3 @@
-
 ---
 title: "Hvordan håndtere en husbrann"
 excerpt: "En personlig beretning om en nattlig husbrann, og refleksjoner over hvordan man kan håndtere en slik situasjon for å minimere mental smerte."

@@ -1,4 +1,3 @@
-
 ---
 title: "Hvorfor løpe et ultraløp?"
 excerpt: "Dette er et spørsmål jeg har fått flere ganger. Det virker fjernt for mange å løpe i mange timer i strekk."

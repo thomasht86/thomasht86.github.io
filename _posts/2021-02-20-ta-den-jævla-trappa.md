@@ -1,4 +1,3 @@
-
 ---
 title: "Ta den jævla trappa!"
 excerpt: "Valget mellom rulletrappa og trappa kan si mye om hvem du er som person. Lær hvorfor det å ta trappa er kritisk for å oppnå et bedre liv."

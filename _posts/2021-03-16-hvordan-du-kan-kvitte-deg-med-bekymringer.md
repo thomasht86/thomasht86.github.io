@@ -1,4 +1,3 @@
-
 ---
 title: "Hvordan du kan kvitte deg med bekymringer"
 excerpt: "Bekymring er en av menneskets største mentale utfordringer. Lær hvordan du kan frigjøre mental båndbredde og kvitte deg med unødvendige bekymringer."

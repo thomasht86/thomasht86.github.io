@@ -1,4 +1,3 @@
-
 ---
 title: "Skap din drømmejobb - Del 3: Test ut idéene"
 excerpt: "I den siste delen av artikkelserien 'Skap din drømmejobb' ser vi på hvordan du kan ta de ulike scenariene du kom opp med i del 2 videre og gå fra ord til handling."

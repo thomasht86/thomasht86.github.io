@@ -1,4 +1,3 @@
-
 ---
 title: "Lever du med en maske?"
 excerpt: "Føles det noen ganger som om du prøver å være noen annen enn den du egentlig er?"

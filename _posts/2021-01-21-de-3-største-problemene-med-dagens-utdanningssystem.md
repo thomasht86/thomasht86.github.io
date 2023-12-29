@@ -1,4 +1,3 @@
-
 ---
 title: "De 3 største problemene med dagens utdanningssystem"
 excerpt: "Dagens utdanningssystem er utdatert og feiler oss på mange områder. Ikke fortvil om du føler du ikke passer inn i skolesystemet."

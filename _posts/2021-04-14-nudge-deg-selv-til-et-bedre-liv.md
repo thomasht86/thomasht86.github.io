@@ -1,4 +1,3 @@
-
 ---
 title: "Nudge deg selv til et bedre liv!"
 excerpt: "Nudging kan være en enkel og effektiv måte å hjelpe deg selv å ta bedre valg på. Den potensielle oppsiden er stor, og kostnaden er liten."

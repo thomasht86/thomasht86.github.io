@@ -1,4 +1,3 @@
-
 ---
 title: "Hvordan vil du måle livet ditt?"
 excerpt: "Har du noen gang tenkt på hvordan du måler livet ditt? Dette innlegget samler tanker fra antikk filosofi og moderne vitenskap for å vise hva du bør vektlegge."

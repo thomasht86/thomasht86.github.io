@@ -1,4 +1,3 @@
-
 ---
 title: "3 nøkler til et godt parforhold"
 excerpt: "Et romantisk forhold kan være utrolig givende og danne grunnlaget for en blomstrende familie. Her er tre nøkler vi har lært for å skape et sterkt parforhold."

@@ -1,4 +1,3 @@
-
 ---
 title: "Skriv din egen historie"
 excerpt: "Hvordan vil livshistorien din se ut om noen år? Ta ansvar og skriv din egen historie, inspirert av eksempler som Elon Musk og Arnold Schwarzenegger."

@@ -1,4 +1,3 @@
-
 ---
 title: "Hvordan bruker du tida di? (Gratis mal for tidsbudsjett)"
 excerpt: "Det er én ressurs du har som jeg vil argumentere for at er uendelig mye viktigere enn penger. Tida di."

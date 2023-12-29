@@ -1,4 +1,3 @@
-
 ---
 title: "Føler du 'det burde vært noe mer'?"
 excerpt: "Hverdagens krav kan være overveldende, men det er en følelse av at det burde være noe mer. Denne følelsen er ditt kall til heltereisen."

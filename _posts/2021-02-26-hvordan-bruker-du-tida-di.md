@@ -1,7 +1,7 @@
 ---
-title: "Hvordan bruker du tida di? (Gratis mal for tidsbudsjett)"
+title: "Hvordan bruker du tida di?"
 excerpt: "Det er én ressurs du har som jeg vil argumentere for at er uendelig mye viktigere enn penger. Tida di."
-permalink: /blog/hvordan-bruker-du-tida-di-gratis-mal-for-tidsbudsjett/
+permalink: /blog/hvordan-bruker-du-tida-di/
 date: 2021-02-26T00:00:00-07:00
 categories:
   - blog
@@ -197,4 +197,3 @@ Kos deg med reisen.
 
 *Selvutvikling*
 *Vaner*
-
